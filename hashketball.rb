@@ -123,7 +123,7 @@ end
 
 # Write your code here!
 
-require "pry"
+require 'pry'
 
 def good_practices
   game_hash.each do |location, team_data|
